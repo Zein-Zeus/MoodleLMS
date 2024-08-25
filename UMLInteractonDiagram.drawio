@@ -148,7 +148,7 @@
             <mxPoint x="60" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uHBQ-E4No12T1ZLkV0_c-43" value="Learning Management System - Interaction / Sequence&amp;nbsp;&lt;div&gt;Diagram&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="uHBQ-E4No12T1ZLkV0_c-43" value="Learning Management System - Interaction / Sequence&amp;nbsp;&lt;div style=&quot;font-size: 19px;&quot;&gt;Diagram&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="284" y="90" width="283" height="30" as="geometry" />
         </mxCell>
       </root>
